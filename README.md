@@ -4,4 +4,4 @@
 
 ![mona](mona.png)
 
-[Aseprite](mona.ase)
+🗃 [Aseprite](mona.ase)
